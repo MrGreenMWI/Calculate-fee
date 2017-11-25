@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+d:\cppprojects\fee\consoleapplication1\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\cppprojects\fee\consoleapplication1\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\cppprojects\fee\consoleapplication1\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConsoleApplication1.cpp
+d:\cppprojects\fee\consoleapplication1\consoleapplication1.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ConsoleApplication1.vcxproj -> D:\cppProjects\fee\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\cppProjects\fee\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
